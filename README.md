@@ -5,13 +5,15 @@ Achieving 87% Accuracy on Cifar10 Dataset
 - CNN Model
 - Development Framework: Keras
 
-Building CNN Model and Training:
-python train.py
+### Building CNN Model and Training:
+Create a directory 'log'  
+python train.py  
 
-Testing:
+### Testing:
 python test.py
 
-Python Notebook (Interactive - contains all plots):
+### Python Notebook (Interactive - contains all plots):
 CNN.ipynb
 
+### Note:
 utils.py - Contains all the declarations and modules
