@@ -5,7 +5,7 @@ Achieving 87% Accuracy on Cifar10 Dataset
 - CNN Model
 - Development Framework: Keras
 
-Building Modela and Training:
+Building CNN Model and Training:
 python train.py
 
 Testing:
